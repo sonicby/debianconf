@@ -1,0 +1,4 @@
+# MariaDB 5.5 repository list - created 2012-12-21 09:30 UTC
+# http://downloads.mariadb.org/mariadb/repositories/
+deb http://mirror2.hs-esslingen.de/mariadb/repo/5.5/debian squeeze main
+deb-src http://mirror2.hs-esslingen.de/mariadb/repo/5.5/debian squeeze main
