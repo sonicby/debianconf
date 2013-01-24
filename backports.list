@@ -1,0 +1,2 @@
+#http://backports-master.debian.org/Instructions/
+deb http://backports.debian.org/debian-backports squeeze-backports main 
